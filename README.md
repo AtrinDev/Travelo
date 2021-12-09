@@ -1,4 +1,4 @@
-# Admin Panel
+# Travelo
 
 ## Table of contents
 
